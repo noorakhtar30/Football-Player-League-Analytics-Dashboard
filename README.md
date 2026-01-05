@@ -46,3 +46,8 @@ Raw football datasets make these insights difficult to interpret without visual 
 - Power BI dashboard design  
 - Sports data analysis and visualization  
 - KPI-driven data storytelling  
+
+## Screenshots / Demos
+
+**Dashboard Preview**  
+![Dashboard Preview](https://github.com/noorakhtar30/Football-Player-League-Analytics-Dashboard/blob/main/Football%20Player%20%26%20League%20Analytics%20Dashboard.png)
